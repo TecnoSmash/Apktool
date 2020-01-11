@@ -9,3 +9,20 @@ It is NOT intended for piracy and other non-legal uses. It could be used for loc
 * Move both files (apktool.jar & apktool) to /usr/local/bin (root needed)
 * Make sure both files are executable (chmod +x)
 * Try running apktool via cli
+
+## Distribuciones compatibles:
+
+| Distribución | Estado     |
+|--------------|------------|
+| Kali Linux   | Compatible |
+| Ubuntu       | Compatible |
+| Xbuntu       | Compatible |
+| Debian       | Compatible |
+| Raspbian     | Compatible |
+| Deepin       | Compatible |
+| Linux Mint   | Compatible |
+| Slax Linux   | Compatible |
+| Parrot OS    | Compatible |
+| Wifislax     | Trabajando |
+| Arch Linux   | Trabajando |
+| Termux       | Trabajando |
